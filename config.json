@@ -1,0 +1,8 @@
+{
+    "time_sleep": 180,
+    "path_log_restarter": "/var/log/restarter.log",
+    "path_log_restarter_error": "/var/log/restarter_error.log",
+    "path_to_log_fpm": "/var/log/php8.0-fpm.log",
+    "varsion_fmp": "php8.0-fpm",
+    "save_log_fpm": "/var/log/php8.0-fpm_save.log"
+}

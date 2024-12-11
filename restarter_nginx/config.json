@@ -1,0 +1,6 @@
+
+{
+    "time_sleep": 180,
+    "path_log_restarter": "/var/log/restarter_nginx.log",
+    "path_log_restarter_error": "/var/log/restarter_error_nginx.log"
+}
