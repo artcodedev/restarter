@@ -5,6 +5,12 @@ import subprocess
 import datetime
 import json
 
+'''
+
+*** Daemon restart Nginx and PHP-fmp
+
+'''
+
 class Restarter:
 
 

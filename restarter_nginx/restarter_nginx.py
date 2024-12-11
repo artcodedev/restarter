@@ -5,6 +5,12 @@ import time
 import datetime
 import subprocess
 
+'''
+
+*** Daemon restart only nginx
+
+'''
+
 class Restarter_nginx:
     
     
